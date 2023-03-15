@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anike\\Desktop\\New\\Fundamental\\DataTypes\\DataTypes.csproj": {}
+    "C:\\Users\\anike\\Desktop\\ReactNative\\cSharp\\C-Sharp-All-Concept\\Fundamental\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anike\\Desktop\\New\\Fundamental\\DataTypes\\DataTypes.csproj": {
+    "C:\\Users\\anike\\Desktop\\ReactNative\\cSharp\\C-Sharp-All-Concept\\Fundamental\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anike\\Desktop\\New\\Fundamental\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "C:\\Users\\anike\\Desktop\\ReactNative\\cSharp\\C-Sharp-All-Concept\\Fundamental\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "C:\\Users\\anike\\Desktop\\New\\Fundamental\\DataTypes\\DataTypes.csproj",
+        "projectPath": "C:\\Users\\anike\\Desktop\\ReactNative\\cSharp\\C-Sharp-All-Concept\\Fundamental\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\anike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anike\\Desktop\\New\\Fundamental\\DataTypes\\obj\\",
+        "outputPath": "C:\\Users\\anike\\Desktop\\ReactNative\\cSharp\\C-Sharp-All-Concept\\Fundamental\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anike\\AppData\\Roaming\\NuGet\\NuGet.Config"
