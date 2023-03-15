@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\bin\Debug\net7.0\DataTypes.exe
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\bin\Debug\net7.0\DataTypes.deps.json
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\bin\Debug\net7.0\DataTypes.runtimeconfig.json
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\bin\Debug\net7.0\DataTypes.dll
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\bin\Debug\net7.0\DataTypes.pdb
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfo.cs
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.dll
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\refint\DataTypes.dll
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.pdb
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\DataTypes.genruntimeconfig.cache
+C:\Users\anike\Desktop\ReactNative\cSharp\C-Sharp-All-Concept\Fundamental\DataTypes\obj\Debug\net7.0\ref\DataTypes.dll
