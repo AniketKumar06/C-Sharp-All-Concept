@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\bin\Debug\net7.0\TypesOfVariables.exe
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\bin\Debug\net7.0\TypesOfVariables.deps.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\bin\Debug\net7.0\TypesOfVariables.runtimeconfig.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\bin\Debug\net7.0\TypesOfVariables.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\bin\Debug\net7.0\TypesOfVariables.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.AssemblyInfo.cs
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\refint\TypesOfVariables.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\TypesOfVariables.genruntimeconfig.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\TypesOfVariables\obj\Debug\net7.0\ref\TypesOfVariables.dll
