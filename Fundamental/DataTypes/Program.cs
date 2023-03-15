@@ -80,6 +80,36 @@ namespace DataTypes
                 ulong.MaxValue
             );
             Console.WriteLine("*****************************************************************");
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine(
+                "float DataType having size is {0} , Minvalue is {1} and Maxvalue is  {2}",
+                sizeof(float),
+                float.MinValue,
+                float.MaxValue
+            );
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine(
+                "double DataType having size is {0} , Minvalue is {1} and Maxvalue is  {2}",
+                sizeof(double),
+                double.MinValue,
+                double.MaxValue
+            );
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine(
+                "decimal DataType having size is {0} , Minvalue is {1} and Maxvalue is  {2}",
+                sizeof(decimal),
+                decimal.MinValue,
+                decimal.MaxValue
+            );
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine(
+                "char DataType having size is {0} ",
+                sizeof(char)
+            );
+            Console.WriteLine("*****************************************************************");
         }
     }
 }
