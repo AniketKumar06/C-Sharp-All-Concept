@@ -24,6 +24,11 @@ namespace Variables
             Console.WriteLine($"The Value of d is {d} ");
             Console.WriteLine($"The value of c is {p.c}");
             // Console.WriteLine($"The value of e is {e}");    Error
+
+
+            //Run time initialization
+            int num = int.Parse(Console.ReadLine());
+            Console.WriteLine("The value of num is {0}", num);
         }
     }
 }
