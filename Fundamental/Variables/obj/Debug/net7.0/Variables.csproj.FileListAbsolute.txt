@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\bin\Debug\net7.0\Variables.exe
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\bin\Debug\net7.0\Variables.deps.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\bin\Debug\net7.0\Variables.runtimeconfig.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\bin\Debug\net7.0\Variables.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\bin\Debug\net7.0\Variables.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.AssemblyInfo.cs
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\refint\Variables.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\Variables.genruntimeconfig.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\Variables\obj\Debug\net7.0\ref\Variables.dll
