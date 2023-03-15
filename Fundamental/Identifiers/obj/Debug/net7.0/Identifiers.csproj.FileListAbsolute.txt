@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\bin\Debug\net7.0\Identifiers.exe
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\bin\Debug\net7.0\Identifiers.deps.json
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\bin\Debug\net7.0\Identifiers.runtimeconfig.json
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\bin\Debug\net7.0\Identifiers.dll
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\bin\Debug\net7.0\Identifiers.pdb
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.AssemblyInfo.cs
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.dll
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\refint\Identifiers.dll
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.pdb
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\Identifiers.genruntimeconfig.cache
+C:\Users\anike\Desktop\New\Fundamental\Identifiers\obj\Debug\net7.0\ref\Identifiers.dll
