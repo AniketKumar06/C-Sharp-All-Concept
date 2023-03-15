@@ -122,7 +122,7 @@ namespace DataTypes
 
 
 
-            /* 
+            /*
             Pointer Data Type : The Pointer Data Types will contain a memory address of the variable value.To get the pointer details we have a two symbols ampersand (&) and asterisk (*).
 ampersand (&): It is Known as Address Operator. It is used to determine the address of a variable.
 asterisk (*): It also known as Indirection Operator. It is used to access the value of an address.
@@ -143,9 +143,8 @@ asterisk (*): It also known as Indirection Operator. It is used to access the va
             ulong ul = 36524156;
             double d = 7.1546154d;
             float f = 4698.164f;
-
             bool b = true;
-
+            decimal dec = 3258.96m;
 
             Console.WriteLine($"Character value is {ch}");
             Console.WriteLine($"Integer value is {i}");
@@ -157,14 +156,28 @@ asterisk (*): It also known as Indirection Operator. It is used to access the va
             Console.WriteLine($"Double value is {d}");
             Console.WriteLine($"Float vcalue is {f}");
             Console.WriteLine($"Boolean value is {b} ");
+            Console.WriteLine($"Decimal value is {dec}");
+
+            // Reference Data Types
+
+            string str = "Hello  Welcome to C# Programming language";
+
+            Console.WriteLine($"String value is {str}");
+
+            Object obj;
+            obj = 20;
+            Console.WriteLine($"Object value is {obj}");
+            Console.WriteLine($"Getting type of object is {obj.GetType()}");
 
 
+            // Pointer DataTypes
+
+            int num = 10;
+            // int* p = &num;
 
 
-
-
-
-
+            Console.WriteLine($"Value of num is {num}");
+            // Console.WriteLine($"Address gof num is {(int)p}");
 
         }
     }
