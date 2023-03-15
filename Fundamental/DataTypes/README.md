@@ -1,7 +1,7 @@
 
 # OUTPUT OF FOLLOWING CODE PRESENT IN PROGRAM.CS
 
-## Value DATATYPES
+## VALUE DATATYPES
 
 
 *****************************************************************
