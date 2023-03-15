@@ -1,5 +1,5 @@
-<!-- 
-    OUTPUT OF FOLLOWING CODE PRESENT IN PROGRAM.CS
+
+# OUTPUT OF FOLLOWING CODE PRESENT IN PROGRAM.CS
 
     *****************************************************************
 sbyte DataType having size is 1 , Minvalue is -128 and Maxvalue is  127
@@ -25,5 +25,3 @@ uint DataType having size is 4 , Minvalue is 0 and Maxvalue is  4294967295
 *****************************************************************
 ulong DataType having size is 8 , Minvalue is 0 and Maxvalue is 18446744073709551615
 *****************************************************************
-
- -->
