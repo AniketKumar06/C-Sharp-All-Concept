@@ -19,3 +19,11 @@
 ### 03. Static Variables or Class Variables
 
 ** Static variables are also known as Class variables. If a variable is explicitly declared with the static modifier or if a variable is declared under any static block then these variables are known as static variables. 
+
+### 04. Constants Variables
+
+If a variable is declared by using the keyword “const” then it as a constant variable and these constant variables can’t be modified once after their declaration, so it’s must initialize at the time of declaration only.
+
+### 05. Read-Only Variables
+
+If a variable is declared by using the readonly keyword then it will be read-only variables and these variables can’t be modified like constants but after initialization. 

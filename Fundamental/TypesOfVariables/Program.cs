@@ -38,6 +38,15 @@ namespace TypesOfVariables
 
             Program.value = 20;
             Console.WriteLine(value);
+
+
+// All variables types
+            Program all = new Program();
+            Console.WriteLine(all.age);
+            Console.WriteLine(max);
+            Console.WriteLine(gh);
+       
+            Console.WriteLine(all.k);
         }
 
         public static void name()
@@ -51,6 +60,7 @@ namespace TypesOfVariables
             int age = 23;
             age = age + 10;
             Console.WriteLine("Your age is " + age);
+
         }
 
         // Instance Variables or Non – Static Variables
@@ -63,6 +73,22 @@ namespace TypesOfVariables
         // Static Variables or Class Variables
 
         static int value;
+
+
+        // All Types of variable 
+
+        int age = 20;
+        static string gh = "Aniket";
+
+        const float max = 25.3f;
+
+        readonly int k=85;
+        // Create Constructor to change value of K   
+        public Program(){
+            this.k = 58;
+        }
+
+
 
     }
 }
