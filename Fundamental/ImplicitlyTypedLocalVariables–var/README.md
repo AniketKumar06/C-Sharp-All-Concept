@@ -1,0 +1,2 @@
+
+Implicitly typed variables are those variables which are declared without specifying the .NET type explicitly. In implicitly typed variable, the type of the variable is automatically deduced at compile time by the compiler from the value used to initialize the variable. The implicitly typed variable concept is introduced in C# 3.0. The implicitly typed variable is not designed to replace the normal variable declaration, it is designed to handle some special-case situation like LINQ(Language-Integrated Query).
