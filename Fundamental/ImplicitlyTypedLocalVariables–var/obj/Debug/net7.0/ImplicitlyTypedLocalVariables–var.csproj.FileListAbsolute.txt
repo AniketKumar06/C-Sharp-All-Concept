@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\bin\Debug\net7.0\ImplicitlyTypedLocalVariables–var.exe
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\bin\Debug\net7.0\ImplicitlyTypedLocalVariables–var.deps.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\bin\Debug\net7.0\ImplicitlyTypedLocalVariables–var.runtimeconfig.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\bin\Debug\net7.0\ImplicitlyTypedLocalVariables–var.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\bin\Debug\net7.0\ImplicitlyTypedLocalVariables–var.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.AssemblyInfo.cs
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\refint\ImplicitlyTypedLocalVariables–var.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ImplicitlyTypedLocalVariables–var.genruntimeconfig.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\ImplicitlyTypedLocalVariables–var\obj\Debug\net7.0\ref\ImplicitlyTypedLocalVariables–var.dll
