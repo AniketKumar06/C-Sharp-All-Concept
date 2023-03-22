@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\bin\Debug\net7.0\DynamicType.exe
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\bin\Debug\net7.0\DynamicType.deps.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\bin\Debug\net7.0\DynamicType.runtimeconfig.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\bin\Debug\net7.0\DynamicType.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\bin\Debug\net7.0\DynamicType.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.AssemblyInfo.cs
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\refint\DynamicType.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\DynamicType.genruntimeconfig.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\DynamicType\obj\Debug\net7.0\ref\DynamicType.dll

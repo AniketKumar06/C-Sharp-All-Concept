@@ -1,0 +1,1 @@
+In C# 4.0, a new type is introduced that is known as a dynamic type. It is used to avoid the compile-time type checking. The compiler does not check the type of the dynamic type variable at compile time, instead of this, the compiler gets the type at the run time. The dynamic type variable is created using dynamic keyword.
