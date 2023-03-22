@@ -32,6 +32,12 @@ namespace TypesOfVariables
             Console.WriteLine(
                 $"English = {marks02.EnglishMarks} \n Hindi = {marks02.HindiMarks} \n Mathematics = {marks02.MathsMarks} "
             );
+
+
+            // Static Variables or Class Variables
+
+            Program.value = 20;
+            Console.WriteLine(value);
         }
 
         public static void name()
@@ -52,5 +58,11 @@ namespace TypesOfVariables
         int EnglishMarks;
         int HindiMarks;
         int MathsMarks;
+
+
+        // Static Variables or Class Variables
+
+        static int value;
+
     }
 }
