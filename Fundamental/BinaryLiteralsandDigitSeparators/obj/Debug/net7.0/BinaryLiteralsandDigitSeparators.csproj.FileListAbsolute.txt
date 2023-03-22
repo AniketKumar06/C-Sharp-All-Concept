@@ -1,0 +1,15 @@
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\bin\Debug\net7.0\BinaryLiteralsandDigitSeparators.exe
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\bin\Debug\net7.0\BinaryLiteralsandDigitSeparators.deps.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\bin\Debug\net7.0\BinaryLiteralsandDigitSeparators.runtimeconfig.json
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\bin\Debug\net7.0\BinaryLiteralsandDigitSeparators.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\bin\Debug\net7.0\BinaryLiteralsandDigitSeparators.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.csproj.AssemblyReference.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.AssemblyInfoInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.AssemblyInfo.cs
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.csproj.CoreCompileInputs.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\refint\BinaryLiteralsandDigitSeparators.dll
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.pdb
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\BinaryLiteralsandDigitSeparators.genruntimeconfig.cache
+C:\Users\anike\Desktop\New\C-Sharp-All-Concept\Fundamental\BinaryLiteralsandDigitSeparators\obj\Debug\net7.0\ref\BinaryLiteralsandDigitSeparators.dll

@@ -19,8 +19,6 @@ namespace DynamicType
 
             Console.WriteLine($"the value of d is {d} and there type is {d.GetType().ToString()}");
 
-
-
         }
     }
 }
