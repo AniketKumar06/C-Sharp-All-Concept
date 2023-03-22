@@ -9,10 +9,10 @@ namespace TypesOfVariables
 
             //  Local Variable
             name();
-            Console.WriteLine("Value of c is " + c);   // Error beacuse c is define as local variable
+          //  Console.WriteLine("Value of c is " + c);   // Error beacuse c is define as local variable
 
         }
-            
+
         public static void name(){
             int c = 23;
             Console.WriteLine("Value of c is " + c);
